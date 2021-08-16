@@ -1,3 +1,5 @@
+//Nicklas 2i 16.08.2021
+
 float SpeedFast = 10;
 float SpeedMedium = 5;
 float SpeedSlow = 2;
